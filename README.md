@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishhdgop
+- 👋 Hi, I’m @nishhdgop(Nischith T N)
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning SushiSwap,Solona
 - 💞️ I’m looking to collaborate on Blockchain Projects
